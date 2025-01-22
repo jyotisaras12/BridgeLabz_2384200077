@@ -29,3 +29,18 @@ Date: 21-01-25
 14) DistanceInput.cs: Finds the distance in yards and miles from the distance provided by user in feet.
 15) PurchasePrice.cs: Calculates the total price from the unit price and quantity of an item bought.
 16) Handshakes.cs: Finds the maximum number of handshakes among N number of students.
+
+Date: 22-01-25
+1) QuotientRemainder.cs: Prints the quotient and remainder of two numbers.
+2) IntOperation.cs: Performs integer operations on variables a, b and c.
+3) DoubleOpt.cs: Performs double operations on variables a, b and c.
+4) TemperatureConversion.cs: Converts temperature in celsius to fahrenheit.
+5) TemperatureConversionToC.cs: Converts temperature in fahrenheit to celsius.
+6) TotalIncome.cs: Find the total income of a person by taking salary and bonus from the user.
+7) NumberSwap.cs: Swaps the numbers.
+8) TravelComputation.cs: Prints the total distance and total time taken to complete the journey.
+9) AthleteRounds.cs: Finds the total number of rounds the athlete will run to complete 5 km.
+10) ChocolateDistribution.cs: Distributes th chocolates among children.
+11) SimpleInterest.cs: Calculates the simple interest.
+12) WeightConversion.cs: Converts the weight in pounds to kilograms.
+
