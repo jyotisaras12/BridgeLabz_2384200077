@@ -44,3 +44,27 @@ Date: 22-01-25
 11) SimpleInterest.cs: Calculates the simple interest.
 12) WeightConversion.cs: Converts the weight in pounds to kilograms.
 
+Date: 23-01-25
+Programs related to:
+1) C# Control Flows
+2) C# boolean Data Type
+3) Boolean Expressions
+4) Logical Operators
+5) if Conditional Statement along with else if and final else statement
+6) C# loops - for and while
+7) C# break and continue statement
+8) C# switch Statement
+
+Date: 25-01-25
+Programs related to:
+1) C# Arrays
+2) Create an Array
+3) Access an Array
+4) Accessing using for loop
+5) Modifying an Array
+6) Using length property of array
+7) C# Multi-demensional Array
+8) C# 2 Dimensional Array (Matrix)
+9) Accessing, finding size, etc of Multi-Dimensional Array
+10) Using C# Console.Error.WriteLine() Message and Environment.Exit() Method
+
