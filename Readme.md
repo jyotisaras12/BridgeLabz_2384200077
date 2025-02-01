@@ -82,3 +82,10 @@ Date: 30-01-25
 Programs related to:
 1) Handling strings 
 2) Common string functions
+
+Date: 31-01-25
+Programs related to:
+1) Fibonacci and Palindrome Numbers
+2) Functions
+3) Date and Time
+4) Classes and Objects
