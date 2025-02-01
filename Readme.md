@@ -77,3 +77,8 @@ Programs related to:
 5) Static Methods in C#
 6) .NET Standard Library Methods
 7) System.Math Class in C#
+
+Date: 30-01-25
+Programs related to:
+1) Handling strings 
+2) Common string functions
