@@ -97,7 +97,7 @@ Programs related to:
 3) Access Modifiers
 
 Date: 04-02-25
-Programs related to following keywords:
+Programs related to the following keywords:
 1) this
 2) static
 3) sealed
