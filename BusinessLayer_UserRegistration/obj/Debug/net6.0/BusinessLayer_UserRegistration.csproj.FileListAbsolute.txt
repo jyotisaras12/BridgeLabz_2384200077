@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\bin\Debug\net6.0\BusinessLayer_UserRegistration.deps.json
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\bin\Debug\net6.0\BusinessLayer_UserRegistration.dll
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\bin\Debug\net6.0\BusinessLayer_UserRegistration.pdb
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\bin\Debug\net6.0\RepositoryLayer_UserRegistration.dll
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\bin\Debug\net6.0\RepositoryLayer_UserRegistration.pdb
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\obj\Debug\net6.0\BusinessLayer_UserRegistration.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\obj\Debug\net6.0\BusinessLayer_UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\obj\Debug\net6.0\BusinessLayer_UserRegistration.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\obj\Debug\net6.0\BusinessLayer_UserRegistration.AssemblyInfo.cs
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\obj\Debug\net6.0\BusinessLayer_UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\obj\Debug\net6.0\Business.22E6E16C.Up2Date
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\obj\Debug\net6.0\BusinessLayer_UserRegistration.dll
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\obj\Debug\net6.0\refint\BusinessLayer_UserRegistration.dll
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\obj\Debug\net6.0\BusinessLayer_UserRegistration.pdb
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\obj\Debug\net6.0\ref\BusinessLayer_UserRegistration.dll
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\bin\Debug\net6.0\ModelLayer_UserRegistration.dll
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\BusinessLayer_UserRegistration\bin\Debug\net6.0\ModelLayer_UserRegistration.pdb

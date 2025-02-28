@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\bin\Debug\net6.0\RepositoryLayer_UserRegistration.deps.json
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\bin\Debug\net6.0\RepositoryLayer_UserRegistration.dll
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\bin\Debug\net6.0\RepositoryLayer_UserRegistration.pdb
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\obj\Debug\net6.0\RepositoryLayer_UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\obj\Debug\net6.0\RepositoryLayer_UserRegistration.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\obj\Debug\net6.0\RepositoryLayer_UserRegistration.AssemblyInfo.cs
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\obj\Debug\net6.0\RepositoryLayer_UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\obj\Debug\net6.0\RepositoryLayer_UserRegistration.dll
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\obj\Debug\net6.0\refint\RepositoryLayer_UserRegistration.dll
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\obj\Debug\net6.0\RepositoryLayer_UserRegistration.pdb
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\obj\Debug\net6.0\ref\RepositoryLayer_UserRegistration.dll
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\bin\Debug\net6.0\ModelLayer_UserRegistration.dll
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\bin\Debug\net6.0\ModelLayer_UserRegistration.pdb
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\obj\Debug\net6.0\RepositoryLayer_UserRegistration.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BridgeLabz_Visual_Studio\RepositoryLayer_UserRegistration\obj\Debug\net6.0\Reposito.15101C51.Up2Date

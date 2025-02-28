@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RepositoryLayer_UserRegistration/1.0.0": {
+        "dependencies": {
+          "ModelLayer_UserRegistration": "1.0.0"
+        },
+        "runtime": {
+          "RepositoryLayer_UserRegistration.dll": {}
+        }
+      },
+      "ModelLayer_UserRegistration/1.0.0": {
+        "runtime": {
+          "ModelLayer_UserRegistration.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepositoryLayer_UserRegistration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModelLayer_UserRegistration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
