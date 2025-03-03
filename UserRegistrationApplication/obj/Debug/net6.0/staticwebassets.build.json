@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "c8OWkGqa3+mI3XNqXo2PPWv7Q6eAbc9j7sBDtMDspeY=",
+  "Source": "UserRegistrationApplication",
+  "BasePath": "_content/UserRegistrationApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
