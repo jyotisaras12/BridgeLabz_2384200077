@@ -1,0 +1,189 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #FF9500; 
+    color: black;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: row;
+    margin: 0;
+}
+
+/* Sidebar Navigation */
+.col-1 {
+    background: #abd5f3;
+    flex: 1;
+    padding: 1em;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    height: 100vh; 
+    overflow-y: auto; 
+}
+
+
+.col-1 ul {
+    list-style: none;
+    padding: 0;
+}
+
+.col-1 ul li {
+    margin: 20px 0;
+}
+
+.col-1 ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.col-1 ul li a:hover {
+    color: maroon;
+}
+
+.col-2 {
+    display: flex;
+    flex-direction: column;
+    flex: 5;
+}
+
+.content{
+    font-size: 20px;
+    font-weight:500;
+    margin: 0;
+}
+
+/* Header */
+header {
+    background: yellowgreen;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    max-width: 900px;
+}
+
+.header-container h1 {
+    font-size: 40px;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+    margin-right: 20px; 
+}
+
+.header-container img {
+    height: 120px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+}
+
+article {
+    padding: 2em;
+    text-align: left;
+}
+
+/* Photo Gallery */
+.photo-gallery {
+    padding: 2em;
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.cards img {
+    margin: 10px;
+    border: 3px solid #000;
+    box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.3);
+    max-width: 25vw;
+    border-radius: 8px;
+}
+
+/* News Section */
+.news {
+    padding: 2em;
+    text-align: center;
+}
+
+.cards .card {
+    flex: 0 0 200px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.3);
+    text-align: center;
+}
+
+.card img {
+    max-width: 100%;
+}
+
+.card .text {
+    padding: 15px;
+}
+
+.card button {
+    background: gray;
+    border: 0;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+}
+
+/* Media Object Section */
+.media-section {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 2em;
+}
+.media {
+    display: flex;
+    align-items: flex-start;
+    background: #F6F3EB;
+    padding: 1em;
+    border-radius: 3px;
+    max-width: 24em;
+    margin: 1em auto;
+}
+.media-object {
+    margin-right: .4em;
+    font-size: 4em;
+}
+.media-body {
+    flex: 1;
+}
+.media-heading {
+    margin: 0 0 .5em;
+}
+
+/* Footer */
+footer {
+    background: yellowgreen;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
+}
