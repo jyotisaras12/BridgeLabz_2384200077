@@ -1,0 +1,15 @@
+<div class="form-container">
+    <h2>PERSON ADDRESS FORM</h2>
+    <form (ngSubmit)="savePerson()">
+      <input type="text" [(ngModel)]="person.fullName" placeholder="Full Name" required />
+      <input type="text" [(ngModel)]="person.phoneNumber" placeholder="Phone Number" required />
+      <textarea [(ngModel)]="person.address" placeholder="Address"></textarea>
+  
+      <input type="text" [(ngModel)]="person.city" placeholder="City" required />
+      <input type="text" [(ngModel)]="person.state" placeholder="State" required />
+      <input type="text" [(ngModel)]="person.zipCode" placeholder="Zip Code" required />
+  
+      <button type="submit">Add</button>
+    </form>
+  </div>
+  
